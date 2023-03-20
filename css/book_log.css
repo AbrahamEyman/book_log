@@ -1,0 +1,236 @@
+h1, h2, h3, h4, li {
+  text-align: center;
+}
+
+.main-container {
+    max-width: 940px;
+    text-align: center !important;
+}
+
+
+.input-sm {
+  font-family: Cabin Sketch; 
+  margin-left: -50px !important
+  
+}
+
+.alert-info {
+    --bs-alert-color: black;
+    --bs-alert-bg: #f5f5f5;
+    font-family: Cabin Sketch;
+    margin-top: 10px;
+    --bs-alert-border-color: #101010;
+}
+
+.input-sm {font-family: Cabin Sketch;}
+
+figcaption {display: block;
+            font-weight: normal !important;
+            }
+
+.shiny-split-layout {
+    white-space: nowrap;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: -30px;
+}
+
+label#cat_sorter-label.control-label {
+    display: inline-block;
+    font-weight: normal;
+}
+.selectize-input.full {
+    background-color: #101010;
+    color: white;
+    font-size: 80%;
+}
+
+.shiny-options-group {
+    margin-top: -10px;
+    font-family: Cabin Sketch !important;,
+    font-weight: normal;
+    font-size: 75%;
+  
+}
+.noUi-connect {
+  background: white !important;
+}
+
+.dataTables_wrapper .dataTables_length select {
+      color: white !important;
+      background-color: #101010 !important;
+      border-color: white !important;
+  }
+.noUi-background {
+    background: #101010 !important;
+}
+.form-control {
+    font-weight: normal;
+    font-size: small;
+}
+.dataTables_wrapper .dataTables_length select {
+    color: white !important;
+}
+
+tr:not(:last-child), tr:nth-child(4), tr:nth-child(5),
+tr:nth-child(10), tr:nth-child(15), tr:nth-child(20),
+tr:nth-child(1) {
+    color: white !important;
+    font-weight: normal !important;
+}
+div.datatables {
+    color: #333;
+    font-size: 75%;
+}
+
+table.dataTable thead .sorting_asc {
+    background-image: url(../images/sort_asc.png) !important;
+}
+.progress {
+    border: 2px solid #CEC9C9;
+    border-radius: 255px 25px 225px 25px/25px 225px 25px 255px;
+    width: 75%;
+}
+
+.input-sm {font-family: Cabin Sketch; }
+
+ul.nav.nav-pills{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.form-label, .shiny-input-container .control-label {
+    font-weight: normal;
+}
+.selectize-control {
+    margin-top: -10px;
+}
+#suggested_book {
+    margin-top: 13px !important;
+}
+input#title_rec-input.control-input {
+    margin-botton: -20px !important;
+}
+#clear {
+    font-weight: normal;
+    float: left !important;
+    left: 20px !important;
+    position: fixed;
+    bottom: 20px !important;
+}
+#search_suggestion {
+    margin-bottom: 3px !important;
+}
+
+ul.nav.nav-pills{
+    display: flex !important;
+    justify-content: center !important;
+    -webkit-flex-wrap: nowrap !important;
+}
+
+.navbar-nav {
+    align-items: left !important;
+    justify-content: left !important;
+    text-align: left !important;
+    top: 0% !important;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+} 
+.selectize-input.full {
+    background-color: #101010;
+    color: white;
+}
+.navbar-expand-sm, 
+.navbar:not(.navbar-expand):not(.navbar-expand-sm):not(.navbar-expand-md):not(.navbar-expand-lg):not(.navbar-expand-xl) {
+    border-color: #101010 !important;
+}
+.navbar:not(.fixed-bottom):not(.navbar-fixed-bottom):not(.navbar-fixed-bottom) {
+    margin-bottom: 0px;
+}
+
+.nav-pills {
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: row !important;
+    margin-left: -20px !important;
+}
+
+.navbar-nav {
+    justify-content: left !important;
+    flex-direction: row !important;
+    text-align: left !important;
+    margin-top: -20px !important;
+    margin-bottom: 20px !important;
+}
+
+.progress-bar {
+    background-color: grey;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.element.style {
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.nav.nav-pills{
+        display: flex !important;
+        align-items: center !important;
+      }
+      
+.nav navbar-nav li.active:hover a, .nav navbar-nav li.active a {
+                        background-color: black ;
+                        border-color: black;
+                        }
+        
+.div.datatables {
+    color: white !important;
+}        
+                        
+                        
+.nav {
+      -webkit-flex-wrap: nowrap !important;
+}
+
+.input-sm {font-family: Cabin Sketch; 
+            margin-left: -50px !important};
+            
+.shiny-options-group {
+    margin-top: -10px;
+    font-family: Cabin Sketch !important;}
+.noUi-connect {
+  background: white !important;
+}
+.dataTables_wrapper .dataTables_length select {
+      color: white !important;
+      background-color: #101010 !important;
+      border-color: white !important;
+}
+td[data-type="factor"] input {
+    width: 100px !important;
+}
+.form-control {
+    font-weight: normal;
+    font-size: small;
+}
+.noUi-background {
+    background: #101010 !important;
+}
+.dataTables_wrapper .dataTables_length select {
+    color: white !important;
+}
+tr:not(:last-child), tr:nth-child(4), tr:nth-child(5),
+tr:nth-child(10), tr:nth-child(15), tr:nth-child(20){
+    color: white !important;
+    font-weight: normal !important;
+}
+
+table.dataTable thead .sorting_asc {
+    background-image: url(../images/sort_asc.png) !important;
+}
